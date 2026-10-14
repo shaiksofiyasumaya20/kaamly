@@ -16,7 +16,7 @@ Finding reliable local service providers can be difficult. Customers may struggl
 
 At the same time, local workers need a convenient way to discover potential customers and compete for service opportunities.
 
-## 💡 Our Solution
+## 💡 My Solution
 
 Kaamly aims to bring customers and local service providers together through a simple, transparent bidding experience.
 
