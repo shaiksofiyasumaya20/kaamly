@@ -1,0 +1,6 @@
+{
+  "name": "LocalLink - Community Service Bidding Platform",
+  "description": "Connect people needing household services with verified local workers who submit competitive bids. Post jobs, compare quotes, and hire trusted pros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
